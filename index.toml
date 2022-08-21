@@ -95,11 +95,6 @@ hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
 metafile = true
 
 [[files]]
-file = "mods/create-deco.pw.toml"
-hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
-metafile = true
-
-[[files]]
 file = "mods/create-plus.pw.toml"
 hash = "4dda685c202c6a617c52eeeffc7cc18a6fff678d17bbaf1563c6ad31a964ed44"
 metafile = true
@@ -117,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
-metafile = true
-
-[[files]]
-file = "mods/createarmoredcopperbacktanks.pw.toml"
-hash = "e2caa43335be839ec72855e44b7692c5366a337ade35481f7668542c72919984"
 metafile = true
 
 [[files]]
