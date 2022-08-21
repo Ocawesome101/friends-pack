@@ -1,0 +1,16 @@
+name = "Angus Modpack"
+author = "Ocawesome101"
+version = "0.4.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f78021f30726523031bdb3971ecab2a90c7de205e87f5b3bbbd8d4c1fc44b9b4"
+
+[versions]
+forge = "40.1.68"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]
