@@ -20,11 +20,6 @@ hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.pw.toml"
-hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
-metafile = true
-
-[[files]]
 file = "mods/bucolic-origins.pw.toml"
 hash = "fd174ded92e8bcdcfca9b1910b987d5f17a7f74c056411271f651cc6801cd40d"
 metafile = true
@@ -186,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/jer-integration.pw.toml"
-hash = "b18db74eca477a7f1c5f920250b9429fb89fdd5d36382e34c94fc843697fa8cf"
+hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
 
 [[files]]
@@ -271,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6ac415953312600491dd249d0d9e55e4e8c77f81af7920e2112240044954ae4d"
+hash = "197f3b5b13c674b34d44783e11db2003ea78b146ad08dc064bf83c49716493c8"
 metafile = true
 
 [[files]]
@@ -291,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c3baee20bb1992ec994bb026fa27a53086eb68a7516e06db59aa95de07dfff4e"
+hash = "2b011893f2bb5a41332b32c80d2797872a48088d198dc1ed1bc7efc296a76da3"
 metafile = true
 
 [[files]]
