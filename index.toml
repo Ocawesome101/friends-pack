@@ -25,6 +25,11 @@ hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
 metafile = true
 
 [[files]]
+file = "mods/bucolic-origins.pw.toml"
+hash = "fd174ded92e8bcdcfca9b1910b987d5f17a7f74c056411271f651cc6801cd40d"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "d039b9333db26814d7e92f033e295f3ad577a144fc15cc1aa88bf87b0c01a204"
 metafile = true
@@ -32,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/building-wands.pw.toml"
 hash = "1a729949299364629635ee98760e3ec70bf75991fe96a773587bf4543f360db5"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
@@ -200,6 +210,16 @@ hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "fe906b3f4de4fe6c7313609f5c7cc44e733cd0e82cf74b6dbce52440bc7beccc"
 metafile = true
@@ -220,8 +240,23 @@ hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "719eed11183e478cf8f228e93e778fe652dc2a9703c5cb5ef685bc0b8ed9fce1"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "d0122c5b94c5f79de11c24da6bc12b0cd6c36ca6ef68b6aa55a191dde0989cf0"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ea38f5dc5016785ca43be0932f239088ebd044af5d6b1138468bb2ebafecd68a"
 metafile = true
 
 [[files]]
