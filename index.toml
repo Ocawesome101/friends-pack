@@ -265,11 +265,6 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
-metafile = true
-
-[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "7130b66fe0ccd4386d0455ab336175e5f64943a45fe5ef8f686c0ec21698ca1b"
 metafile = true
