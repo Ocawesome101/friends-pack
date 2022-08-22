@@ -115,6 +115,11 @@ hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "df310cdfe88e21419bbc9e6d3a476e3adc568bb763ca7e6d6c1102db458b6e23"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
 metafile = true
